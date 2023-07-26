@@ -14,3 +14,5 @@ def division(a,b):
 def substration(a,b):
     return a-b
 
+## nice working
+GeneratorExit
