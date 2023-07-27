@@ -1,0 +1,140 @@
+[33mcommit b51f247b5082f2e36704556635de632f963ef7e6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Wed Jul 26 07:39:15 2023 +0530
+
+    sky story
+
+[33mcommit 717360d698627e1cbffcf82dd46a5544bed72452[m[33m ([m[1;32mcheckout[m[33m)[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Wed Jul 26 07:24:41 2023 +0530
+
+    Developer story
+
+[33mcommit 595a30918fbb245c97295af7498f5de1da66646f[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 08:11:55 2023 +0530
+
+    developer Story
+
+[33mcommit b19bd74e61bed036e884cd71e61c3a990788be1e[m
+Merge: ff549c8 92b3cbd
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:59:22 2023 +0530
+
+    code conflict app.py merge
+
+[33mcommit ff549c82b11468e4e47c211288c8242e1f71d3fe[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:54:14 2023 +0530
+
+    app.py changes done
+
+[33mcommit 92b3cbde756e9eb6efc8e705cc623beff56afcf4[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Mon Jul 24 07:53:10 2023 +0530
+
+    Update app.py
+
+[33mcommit d5b167e6ea919b97011e014be9e7180acc8496cf[m
+Merge: 06f40af 06117b3
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:48:02 2023 +0530
+
+    code conflects merge
+
+[33mcommit 06f40af0ccc4e5259ef387c768fb7b52d525ce71[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:39:58 2023 +0530
+
+    app.py changes
+
+[33mcommit 06117b3c247b6a6d5a2d5792c27e767f5bb69fe5[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Mon Jul 24 07:37:07 2023 +0530
+
+    Update app.py
+
+[33mcommit 99c4587e86a55a976fa1c62d0760c20dce663b60[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:34:38 2023 +0530
+
+    Resolved Conflicts
+
+[33mcommit 0da54c0f2e6b71447a7def9d5a32213949470f68[m
+Merge: 7162d11 83dbe76
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:26:42 2023 +0530
+
+    Merge branch 'main' of https://github.com/Sabdul92/gitpractice
+
+[33mcommit 7162d11dc8acbd117d220c10e1858e381ae02f70[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 07:22:29 2023 +0530
+
+    modified reamme file
+
+[33mcommit 83dbe765d34cf75e28a77abd23e6a293bc1e96f1[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Mon Jul 24 07:19:54 2023 +0530
+
+    Update README.md
+
+[33mcommit 8a60b63185a2253e3f0941ef788678a34ad42b69[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 06:52:30 2023 +0530
+
+    commit dlt
+
+[33mcommit 588fc845545df053ffd9819f046bfede4b583bf5[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Mon Jul 24 06:48:42 2023 +0530
+
+    Update self.py
+
+[33mcommit c35f7b3763863ee5a066006cff4eb3573f17a204[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Mon Jul 24 06:47:47 2023 +0530
+
+    Create self1.py
+
+[33mcommit 59907edfdb7623eeb592f4ebb44e3b068590f1ac[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Mon Jul 24 06:45:50 2023 +0530
+
+    Creat a new file
+
+[33mcommit affb879b767c4abc4557e0b8c63a31f962f20f4e[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Sun Jul 23 08:41:20 2023 +0530
+
+    Create .gitignore
+
+[33mcommit f466dfbfb6a023c448c9ed46c0783fbe285d923a[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Sun Jul 23 08:35:16 2023 +0530
+
+    edit file
+
+[33mcommit 407c8eeca2294f6e3568646ba12ee699c44c4e19[m
+Author: Sabdul92 <133892572+Sabdul92@users.noreply.github.com>
+Date:   Sun Jul 23 08:30:52 2023 +0530
+
+    Create test1.py
+
+[33mcommit 3bc166f7728f89cc258ddd03137f10e0931136d8[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Sun Jul 23 08:25:00 2023 +0530
+
+    Creat test.py file
+
+[33mcommit 418c98543deeb099ea746fe6863a9a20fb927f7a[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Sun Jul 23 08:12:55 2023 +0530
+
+    Create app.py
+
+[33mcommit f8e6204ef56ec24f7a6692e3362e91d588799dad[m
+Author: Mohammad Abdullah <hmabdullah78692@gmail.com>
+Date:   Sun Jul 23 07:12:36 2023 +0530
+
+    This is my first commit
